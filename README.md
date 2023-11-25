@@ -6,16 +6,6 @@
 - 📫 How to reach me filho1987@gmail.com
 
 <div>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=giovanematosfh&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=giovanematosfh&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanematosfh&show_icons=true" />
-</picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanematosfh&show_icons=true&theme=dracula&include_all_commits-true&count_private-true"/>
 </div>
 
