@@ -12,10 +12,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanematosfh&layout=compact&langs_count-16&theme=dark"/>
 </div>
 
-##
-
-<div>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=giovanematosfh&layout=compact&langs_count-16&theme=dark](https://img.shields.io/badge/HTML5-E34F26?style=for-the- 
-   badge&logo=html5&logoColor=white)https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-
